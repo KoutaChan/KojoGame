@@ -1,1 +1,1 @@
-execute at @a[scores={tv=1..}] run execute as @a[scores={tv=1..}] run function kojogame:class/talk_villager
+execute as @a[scores={tv=1..}] run execute at @s run function kojogame:class/talk_villager
