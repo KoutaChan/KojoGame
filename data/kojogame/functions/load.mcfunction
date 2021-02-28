@@ -1,0 +1,1 @@
+function kojogame:createscore/create
